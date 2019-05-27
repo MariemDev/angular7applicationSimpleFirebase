@@ -53,4 +53,6 @@ all steps for this simple project:
 		npm install -g firebase-tools
 		firebase login
 		firebase init
+
+the final link "bird-galaxy-52391.firebaseapp.com"
 		
